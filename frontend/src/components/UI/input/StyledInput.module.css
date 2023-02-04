@@ -1,0 +1,13 @@
+.Input {
+    /* padding: 5px 15px;
+    color: teal;
+    font-size: 14px;
+    background: transparent;
+    border: 1px solid teal; */
+    /* cursor: pointer; */
+
+    width: 90%;
+    padding: 5px 15px;
+    margin: 5px 15px;
+    border: 1px solid teal;
+}
